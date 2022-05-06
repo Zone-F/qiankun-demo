@@ -5,20 +5,28 @@
 
 #### 主应用启动
 cd /micro-app-main
+
 npm i
+
 npm run dev
 
 ### Vue子应用启动
 cd /micro-app-vue
+
 npm i
+
 npm run dev
 
 ### React子应用启动
 cd /micro-app-react
+
 npm i
+
 npm start
 
 ### Angular子应用启动
 cd /micro-app-angular
+
 npm i
+
 ng serve
